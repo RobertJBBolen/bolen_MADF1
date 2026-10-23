@@ -4,7 +4,7 @@ Full Name: Bolen, Robert JB B.
 Section:BSIT - 3B
 Course: Mobile Application Development
 ## Repository
-Name: bolen_name_MADF1
+Name: bolen_MADF1
 ## Application
 Student Registration and Profile Management Application
 ## Technologies
